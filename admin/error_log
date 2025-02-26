@@ -1,0 +1,24 @@
+[22-Nov-2024 04:50:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect_error() in /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php:15
+Stack trace:
+#0 /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php(42): ErrorServer->__construct()
+#1 /home/lmaisytiencom/fakebill.maisytien.com/config/database.php(7): require_once('/home/lmaisytie...')
+#2 /home/lmaisytiencom/fakebill.maisytien.com/admin/partials/head.php(1): require('/home/lmaisytie...')
+#3 /home/lmaisytiencom/fakebill.maisytien.com/admin/index.php(1): require('/home/lmaisytie...')
+#4 {main}
+  thrown in /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php on line 15
+[22-Nov-2024 04:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect_error() in /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php:15
+Stack trace:
+#0 /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php(42): ErrorServer->__construct()
+#1 /home/lmaisytiencom/fakebill.maisytien.com/config/database.php(7): require_once('/home/lmaisytie...')
+#2 /home/lmaisytiencom/fakebill.maisytien.com/admin/partials/head.php(1): require('/home/lmaisytie...')
+#3 /home/lmaisytiencom/fakebill.maisytien.com/admin/index.php(1): require('/home/lmaisytie...')
+#4 {main}
+  thrown in /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php on line 15
+[22-Nov-2024 04:50:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect_error() in /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php:15
+Stack trace:
+#0 /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php(42): ErrorServer->__construct()
+#1 /home/lmaisytiencom/fakebill.maisytien.com/config/database.php(7): require_once('/home/lmaisytie...')
+#2 /home/lmaisytiencom/fakebill.maisytien.com/admin/partials/head.php(1): require('/home/lmaisytie...')
+#3 /home/lmaisytiencom/fakebill.maisytien.com/admin/index.php(1): require('/home/lmaisytie...')
+#4 {main}
+  thrown in /home/lmaisytiencom/fakebill.maisytien.com/function/connect/error.php on line 15
